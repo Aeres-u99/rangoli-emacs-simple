@@ -1,0 +1,1 @@
+/home/akuma/.emacs.d/straight/repos/ssh-config-mode-el/ssh-config-mode.el

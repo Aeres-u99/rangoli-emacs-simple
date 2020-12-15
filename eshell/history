@@ -1,0 +1,38 @@
+ls
+clear
+clear
+ls
+goto projects
+cd ../..
+ls
+cd .
+cd ..
+ls
+clear
+ls
+cd SoopaProject/
+ls
+clear
+ls
+ls
+cd kodi/
+ls
+cd env/
+ls
+echo $SHELL
+clear
+ls
+cd bin
+ls
+source activate
+lear
+clear
+ls
+source activate
+ls
+clear
+clear
+exit
+pip install ‘python-language-server[all]’
+exit
+ls

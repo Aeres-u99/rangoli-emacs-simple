@@ -1,0 +1,1 @@
+("~/.emacs.d/site-lisp/emacs-application-framework/" "~/vimwiki/" "~/.emacs.d/elpa/jedi-core-0.2.8/" "~/rangoli-emacs/" "~/.emacs.d/straight/repos/pdf-tools/" "~/.emacs.d/straight/build/pdf-tools/build/server/")

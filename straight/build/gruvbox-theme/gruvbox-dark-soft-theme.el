@@ -1,0 +1,1 @@
+/home/akuma/.emacs.d/straight/repos/emacs-theme-gruvbox/gruvbox-dark-soft-theme.el

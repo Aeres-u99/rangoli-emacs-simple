@@ -1,0 +1,2 @@
+;;; Generated package description from /home/akuma/.emacs.d/elpa/mpdmacs-0.2.0/mpdmacs.el  -*- no-byte-compile: t -*-
+(define-package "mpdmacs" "0.2.0" "A lightweight MPD client" '((emacs "25.1") (elmpd "0.1")) :commit "b81d9464c04bd42509b62d4a3c23f50aed728fc3" :keywords '("comm") :authors '(("Michael Herstine" . "sp1ff@pobox.com")) :maintainer '("Michael Herstine" . "sp1ff@pobox.com") :url "https://github.com/sp1ff/mpdmacs")

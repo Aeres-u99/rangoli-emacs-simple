@@ -1,0 +1,1 @@
+/home/akuma/.emacs.d/straight/repos/json-reformat/json-reformat.el

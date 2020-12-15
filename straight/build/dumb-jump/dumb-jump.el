@@ -1,0 +1,1 @@
+/home/akuma/.emacs.d/straight/repos/dumb-jump/dumb-jump.el

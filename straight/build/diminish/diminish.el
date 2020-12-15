@@ -1,0 +1,1 @@
+/home/akuma/.emacs.d/straight/repos/diminish.el/diminish.el

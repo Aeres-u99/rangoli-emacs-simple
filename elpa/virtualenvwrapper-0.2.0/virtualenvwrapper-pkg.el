@@ -1,0 +1,2 @@
+;;; Generated package description from /home/akuma/.emacs.d/elpa/virtualenvwrapper-0.2.0/virtualenvwrapper.el  -*- no-byte-compile: t -*-
+(define-package "virtualenvwrapper" "0.2.0" "a featureful virtualenv tool for Emacs" '((dash "1.5.0") (s "1.6.1")) :commit "f753e5ad91c2ff5d11bec424aa8cec141efa6925" :keywords '("python" "virtualenv" "virtualenvwrapper") :authors '(("James J Porter" . "porterjamesj@gmail.com")) :maintainer '("James J Porter" . "porterjamesj@gmail.com") :url "http://github.com/porterjamesj/virtualenvwrapper.el")

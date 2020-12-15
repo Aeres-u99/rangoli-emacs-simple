@@ -1,0 +1,1 @@
+/home/akuma/.emacs.d/straight/repos/cmake/Auxiliary/cmake-mode.el
